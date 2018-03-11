@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Okey\OkeyLibrary\obj\Debug\OkeyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Okey\OkeyLibrary\bin\Debug\OkeyLibrary.dll
+C:\Users\user\Desktop\Okey\OkeyLibrary\bin\Debug\OkeyLibrary.pdb
+C:\Users\user\Desktop\Okey\OkeyLibrary\obj\Debug\OkeyLibrary.dll
+C:\Users\user\Desktop\Okey\OkeyLibrary\obj\Debug\OkeyLibrary.pdb

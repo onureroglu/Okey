@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\OkeyLibrary\OkeyApplication\bin\Debug\OkeyApplication.exe.config
+C:\Users\user\Desktop\Okey\OkeyApplication\bin\Debug\OkeyApplication.exe.config
+C:\Users\user\Desktop\Okey\OkeyApplication\bin\Debug\OkeyApplication.exe
+C:\Users\user\Desktop\Okey\OkeyApplication\bin\Debug\OkeyApplication.pdb
+C:\Users\user\Desktop\Okey\OkeyApplication\obj\Debug\OkeyApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Okey\OkeyApplication\obj\Debug\OkeyApplication.exe
+C:\Users\user\Desktop\Okey\OkeyApplication\obj\Debug\OkeyApplication.pdb
+C:\Users\user\Desktop\Okey\OkeyApplication\bin\Debug\OkeyLibrary.dll
+C:\Users\user\Desktop\Okey\OkeyApplication\bin\Debug\OkeyLibrary.pdb
